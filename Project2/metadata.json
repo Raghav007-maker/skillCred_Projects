@@ -1,0 +1,5 @@
+{
+  "name": "Nira: AI Symptom Checker",
+  "description": "Nira is an intelligent symptom checker that leverages AI to provide potential diagnoses and next-step recommendations based on user-entered symptoms. This tool is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
