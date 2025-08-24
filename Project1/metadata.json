@@ -1,0 +1,5 @@
+{
+  "name": "MediScan AI",
+  "description": "An AI-powered medical imaging analysis tool that provides diagnostic probabilities and visual explanations from X-ray images. This is a proof-of-concept and should not be used for actual medical diagnosis.",
+  "requestFramePermissions": []
+}
